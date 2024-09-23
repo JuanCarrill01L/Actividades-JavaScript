@@ -1,0 +1,1 @@
+alert( '¡Hola, mundooooo!' ); //El alert solo se usa casos puntuales donde realmente sea necesario llamar la atención del usuario.
