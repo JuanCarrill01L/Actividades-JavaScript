@@ -1,0 +1,1 @@
+"use strict"// Esto causará un error porque x no está declarada, Es recomendable usarlo para evitar errores difíciles de detectar.
